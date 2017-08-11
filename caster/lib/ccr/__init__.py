@@ -9,6 +9,8 @@ from haxe.haxe import Haxe
 from html.html import HTML
 from java.java import Java
 from javascript.javascript import Javascript
+from javascript.react import React
+from javascript.flow import Flow
 from python.python import Python
 from rust.rust import Rust
 from sql.sql import SQL
