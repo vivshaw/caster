@@ -94,14 +94,14 @@ class Java(MergeRule):
         "sue if":                        R(Text("if ()")+Key("left"), rdescript="Java: Short If"),
         "sue else":                       R(Text("else")+Key("enter"), rdescript="Java: Short Else"),
         
-        "ell if":                      R(Text("else if ()")+Key("left"), rdescript="Java: Else If"),
+        "ell if":                      R(Text("else if ")+Key("lparen"), rdescript="Java: Else If"),
         "throw exception":                  R(Text("throw new Exception()")+Key("left"), rdescript="Java: Throw Exception"),
         
         "char at":                     R(Text("charAt"), rdescript="Java: Character At Method"),
         "instance of":                   R(Text(" instanceof "), rdescript="Java: Instance Of"),
 
-        "funk":                             R(Key("lparen, rparen, left"), rdescript="Java method args"),
-        "body":                             R(Key("end, space, lbrace, rbrace, left, enter"), rdescript="Java method/class body")
+        "funk":                             R(Key("lparen"), rdescript="Java method args"),
+        "body":                             R(Key("end, space, lbrace, enter"), rdescript="Java method/class body")
           
     }
 
