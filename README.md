@@ -6,6 +6,6 @@ Incant is my fork of Synkarius's excellent [Caster](https://github.com/synkarius
 
 > Caster is a collection of tools aimed at enabling programming entirely by voice. It runs on top of [Dragonfly](https://github.com/t4ngo/dragonfly), which runs on either Dragon NaturallySpeaking or Windows Speech Recognition.
 
-- from [Synkarius's repo](https://github.com/synkarius/caster], which has loads more info on what it does & how it works.
+- from [Synkarius's repo](https://github.com/synkarius/caster), which has loads more info on what it does & how it works.
 
 [![Join the chat at https://gitter.im/synkarius/caster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/synkarius/caster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
