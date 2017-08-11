@@ -1,6 +1,6 @@
 # caster-incant
 
-Incant is my fork of Synkarius's excellent [Caster](https://github.com/synkarius/caster] voice programming tools. I love Caster but have some slightly different needs & prefer a very different sort of grammar, so I've spent the past few months tweaking it into something tailored to my own needs. I've favored principles of maximum conciseness, maximum automation, and maximum specificity for the languages & frameworks I work with. To this end, the JS grammar has been expanded & heavily tweaked, & specific support for frameworks & tooling like React, Flow, & Node have been added.
+Incant is my fork of Synkarius's excellent [Caster](https://github.com/synkarius/caster) voice programming toolkit. I love Caster but have some slightly different needs & prefer a very different sort of grammar, so I've spent the past few months tweaking it into something tailored to my own needs. I've favored principles of maximum conciseness, maximum automation, and maximum specificity for the languages & frameworks I work with. To this end, the JS grammar has been expanded & heavily tweaked, & specific support for frameworks & tooling like React, Flow, & Node have been added.
 
 ## What's a caster?
 
